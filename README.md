@@ -11,9 +11,15 @@ Y otra versión atravez de un [chatbot en messenger](https://bit.ly/3pHp6nX).
 
 # ¿Cómo usarla?
 Lo único que tienes que hacer es poner el precio final de venta y seleccionar la categoría a la que pertenece el producto que vendes, opcional poner el costo de envío y el costo que a tí te sale el producto, de esa forma tendrás una información mas neta de tus ganancias.
-![enter image description here](https://github.com/brusmax/calculadora-mercadolibre/blob/main/images/calculadora-mercadolibre.gif?raw=true)
+![enter image description here](https://github.com/brusmax/calculadora-mercadolibre/blob/main/images/calculadora-mercadolibre-v0.0.1.0.gif?raw=true)
 
 # Changelog
 Éstas actualizaciones aplican para la [versión de chrome extension](https://bit.ly/36EWJPu)
+# [0.0.1.0] - 09-08-2021
+- Mejoras en la interfaz grafica.
+- Resultado filtrado por RFC (tanto como si ya lo tienes dado de alta, como si no lo tienes).
+- Nueva pestaña de configuración
+- Impuestos editables (pensando en otros países que tienen impuestos diferentes).
+
 # [0.0.0.1] - 14-07-2021
 Se subió la primera versión de la calculadora, que permite calcular comisiones y muestra las ganancias netas según el precio a la venta, la categoría del producto, el costo de envío, el costo del producto y si la persona tiene el RFC registrado en la plataforma (para México).
